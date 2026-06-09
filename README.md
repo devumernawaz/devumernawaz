@@ -47,8 +47,12 @@ Full Stack Developer roles. Open to remote positions worldwide.
 
 ## GitHub stats
 
-![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=devumernawaz&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devumernawaz&layout=compact&theme=default&hide_border=true)
+![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat&logo=github)
+![](https://img.shields.io/badge/Languages-C%23%20%7C%20JavaScript%20%7C%20SQL-informational?style=flat)
+![](https://img.shields.io/badge/Stack-React%20%7C%20ASP.NET%20Core%20%7C%20SQL%20Server-success?style=flat)
+![](https://img.shields.io/badge/Open%20To-Remote%20Roles-orange?style=flat)
+
+
 
 ---
 
