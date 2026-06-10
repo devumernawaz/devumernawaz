@@ -40,6 +40,7 @@ Full Stack Developer roles. Open to remote positions worldwide.
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
 | [Portfolio](https://github.com/devumernawaz/portfolio) | Personal developer portfolio | React, Tailwind, Vite | [Live](https://portfolio-site-coral-seven-49.vercel.app) |
+| [Expense Tracker](https://github.com/devumernawaz/expense-tracker) | Full-stack expense app with JWT auth | React 19, ASP.NET Core, SQL Server | — |
 
 *More projects in progress — check back soon.*
 
