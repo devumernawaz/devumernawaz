@@ -1,4 +1,4 @@
-# Hi, I'm Umer Nawaz
+# Hi, I'm Umer.Nawaz
 
 **Full Stack Developer** · React · ASP.NET Core · SQL Server · C# · JavaScript
 
